@@ -2,7 +2,7 @@
 <h3 align="center">I'm a passionate developer and student with a strong interest in Cybersecurity and Linux. I am constantly learning, building projects, and contributing to the open-source community.</h3>
 
 <p align="center">
-    <img src="https://cdnb.artstation.com/p/assets/images/images/030/555/445/original/runny-run-homegiffy.gif?1600953104&dl=1" alt="Development GIF" width="400"/>
+    <img src="https://camo.githubusercontent.com/ca576c832296e80097ae482f89809690d68c31d80a864602bbb5f0242da727cb/68747470733a2f2f63646e622e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3033302f3535352f3434352f6f726967696e616c2f72756e6e792d72756e2d686f6d6567696666792e6769663f3136303039353331303426646c3d31" alt="Development GIF" width="400"/>
 </p>
 
 
