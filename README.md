@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Abdul Moeez Siddiqui</h1>
 <h3 align="center">I'm a passionate developer and student with a strong interest in Cybersecurity and Linux. I am constantly learning, building projects, and contributing to the open-source community.</h3>
 
+<p align="center">
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG14cDN5NzRscGNpYXdtNTRlemZwcnRveGcxejlvOWh3bjBsa2lpdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8uEN3vEZKibcjQwrJT/giphy.webp" alt="Development GIF" width="400"/>
+</p>
+
+
+
 - 🔭 I’m currently working on **Skill Bridge**.
 - 🌱 I’m currently learning **Web Development**.
 - 📝 I regularly write articles on [Medium](https://medium.com/@abdulmoeezsiddiqui4).
