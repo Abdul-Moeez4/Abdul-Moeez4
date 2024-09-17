@@ -7,9 +7,9 @@
 
 
 
-- 🔭 I’m currently working on **Skill Bridge**.
+- 🔭 I’m currently working on **Skill Bridge**, a platform where individuals can Learn and Teach.
 - 🌱 I’m currently learning **Web Development**.
-- 📝 I regularly write articles on [Medium](https://medium.com/@abdulmoeezsiddiqui4).
+- 📝 I often write articles on [Medium](https://medium.com/@abdulmoeezsiddiqui4).
 
 <h3 align="left">Achievements</h3>
 - 🎖️ Ranked in the Top 3% on TryHackMe.
