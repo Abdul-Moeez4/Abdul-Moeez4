@@ -14,7 +14,7 @@
 <h3 align="left">Achievements</h3>
 - 🎖️ Ranked in the Top 3% on TryHackMe.
 <br>
-- 🔍 Successfully completed multiple challenges on both PicoCT and TryHackMe.
+- 🔍 Successfully completed multiple challenges on both PicoCTF and TryHackMe.
 
 <h3 align="left">Connect with Me</h3>
 <p align="left">
