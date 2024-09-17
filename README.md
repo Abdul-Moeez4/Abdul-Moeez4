@@ -11,10 +11,15 @@
 - 🌱 I’m currently learning **Web Development**.
 - 📝 I often write articles on [Medium](https://medium.com/@abdulmoeezsiddiqui4).
 
+
 <h3 align="left">Achievements</h3>
 - 🎖️ Ranked in the Top 3% on TryHackMe.
 <br>
 - 🔍 Successfully completed multiple challenges on both PicoCTF and TryHackMe.
+<br><br>
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/AbdulMoeez4.png" alt="TryHackMe">
+
 
 <h3 align="left">Connect with Me</h3>
 <p align="left">
