@@ -2,7 +2,7 @@
 <h3 align="center">I'm a passionate developer and student with a strong interest in Cybersecurity and Linux. I am constantly learning, building projects, and contributing to the open-source community.</h3>
 
 <p align="center">
-    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzdqb3JoMmcyNTQwajMydms3YzVpbW96a2xod3BydzJ0b3h0d29rdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0NwGpoOVLTAyUJSo/giphy.webp" alt="Development GIF" width="400"/>
+    <img src="https://cdnb.artstation.com/p/assets/images/images/030/555/445/original/runny-run-homegiffy.gif?1600953104&dl=1" alt="Development GIF" width="400"/>
 </p>
 
 
@@ -62,3 +62,6 @@
     <li><strong>Caesar Cipher</strong>: Developed a basic implementation for encryption and decryption.</li>
     <li><strong>SSL/TLS Scan</strong>: Conducted scans for SSL/TLS vulnerabilities during my CyberOps internship.</li>
 </ul>
+
+
+
