@@ -8,7 +8,7 @@
 
 
 - 🔭 I’m currently working on **Skill Bridge**, a platform where individuals can Learn and Teach.
-- 🌱 I’m currently learning **Web Development**.
+- 🌱 I’m currently learning **Web Development** and **JavaScript**.
 - 📝 I often write articles on [Medium](https://medium.com/@abdulmoeezsiddiqui4).
 
 
