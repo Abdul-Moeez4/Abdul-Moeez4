@@ -65,7 +65,7 @@
     <li><strong>Cybersecurity Labs</strong>: Engaged in hands-on labs on TryHackMe and Hack The Box, focusing on penetration testing.</li>
     <li><strong>Password Checkers</strong>: Created tools for validating password strength and security.</li>
     <li><strong>Caesar Cipher</strong>: Developed a basic implementation for encryption and decryption.</li>
-    <li><strong>SSL/TLS Scan</strong>: Conducted scans for SSL/TLS vulnerabilities during my CyberOps internship.</li>
+    <li><strong>SSL/TLS Scan Tool</strong>: Created a SSL/TLS Security Scan tool during my CyberOps internship.</li>
 </ul>
 
 
