@@ -20,7 +20,6 @@
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/AbdulMoeez4.png" alt="TryHackMe">
 
-
 <h3 align="left">Connect with Me</h3>
 <p align="left">
     <a href="https://linkedin.com/in/abdul-moeez-siddiqui-913578279" target="blank">
