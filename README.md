@@ -11,7 +11,7 @@
 -  **PastExplorer**, Linux-based command history logger and extractor tool designed to capture and manage terminal command histories,
 -   **Elevano**, a platform where individuals can Learn and Teach.
   
-- 🌱 I’m currently learning **Digital Forensics**, **Web Development** and **JavaScript**.
+- 🌱 I’m currently learning **Digital Forensics**, **Web Development** and **REACT**.
 - 📝 I often write articles on [Medium](https://medium.com/@abdulmoeezsiddiqui4).
 
 
