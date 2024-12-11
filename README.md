@@ -21,7 +21,7 @@
 - 🔍 Successfully completed multiple challenges on both PicoCTF and TryHackMe.
 <br><br>
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/AbdulMoeez4.png" alt="TryHackMe">
+<img src="https://tryhackme-badges.s3.amazonaws.com/AbdulMoeez4.png" alt="Your Image Badge" />
 
 <h3 align="left">Connect with Me</h3>
 <p align="left">
