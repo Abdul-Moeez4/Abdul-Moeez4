@@ -63,7 +63,7 @@
 <h3 align="left">Personal Projects</h3>
 <ul>
     <li><strong>Candy Crush Game in Assembly Language</strong>: Developed using x86 assembly language.</li>
-    <li><strong>Cybersecurity Labs</strong>: Engaged in hands-on labs on TryHackMe and Hack The Box, focusing on penetration testing.</li>
+    <li><strong>Cybersecurity Labs</strong>: Engaged in hands-on labs on TryHackMe, Hack The Box and CyberDefenders focusing on penetration testing and Digital Forensics.</li>
     <li><strong>Password Checkers</strong>: Created tools for validating password strength and security.</li>
     <li><strong>Caesar Cipher</strong>: Developed a basic implementation for encryption and decryption.</li>
     <li><strong>SSL/TLS Scan Tool</strong>: Created a SSL/TLS Security Scan tool during my CyberOps internship.</li>
