@@ -67,6 +67,7 @@
     <li><strong>Password Checkers</strong>: Created tools for validating password strength and security.</li>
     <li><strong>Caesar Cipher</strong>: Developed a basic implementation for encryption and decryption.</li>
     <li><strong>SSL/TLS Scan Tool</strong>: Created a SSL/TLS Security Scan tool during my CyberOps internship.</li>
+    <li><strong>Past-Explorer</strong>: A Linux Based History Logger & Extractor Tool.</li>
 </ul>
 
 
