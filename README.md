@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on:
 -  **Nothing**
 
-- 🌱 I’m currently learning **Digital Forensics**, **Web Development** and **REACT**.
+- 🌱 I’m currently learning **to Survive**.
 - 📝 I often write articles on [Medium](https://medium.com/@abdulmoeezsiddiqui4).
 
 
