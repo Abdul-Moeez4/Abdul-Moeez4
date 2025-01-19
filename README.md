@@ -8,9 +8,9 @@
 
 
 - 🔭 I’m currently working on:
-  **A.I**, **Digital Marketing**, **VA & RE** and **Ethical Hacking**
+  **N/A**
 
-- 🌱 I’m currently learning **N/A**.
+- 🌱 I’m currently learning: **A.I**, **Digital Marketing**, **VA & RE** and **Ethical Hacking**.
 - 📝 I often write articles on [Medium](https://medium.com/@abdulmoeezsiddiqui4).
 
 
