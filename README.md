@@ -15,9 +15,11 @@
 
 
 <h3 align="left">Achievements</h3>
-- 🎖️ Ranked in the Top 3% on TryHackMe.
+- 🎖️ Ranked in the Top 2% on TryHackMe.
 <br>
-- 🔍 Successfully completed multiple challenges on both PicoCTF and TryHackMe.
+- 🔍 Successfully completed 100+ Rooms and Challenges on both PicoCTF and TryHackMe.
+<br>
+- 📄 Completed multiple Digital Forensic Labs on CyberDefenders with accepted writes-ups.
 <br><br>
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/AbdulMoeez4.png" alt="Your Image Badge" />
