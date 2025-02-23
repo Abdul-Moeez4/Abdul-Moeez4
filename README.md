@@ -22,7 +22,7 @@
 - 📄 Completed multiple Digital Forensic Labs on CyberDefenders with accepted writes-ups.
 <br><br>
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/AbdulMoeez4.png" alt="Your Image Badge" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/AbdulMoeez4.png" alt="Your Image Badge" /> <img src="https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/SalGoodBro.png" width="300" />
 
 <h3 align="left">Connect with Me</h3>
 <p align="left">
