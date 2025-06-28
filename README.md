@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on:
   **N/A**
 
-- 🌱 I’m currently learning: **A.I**, **Digital Marketing**, **VA & RE** and **Ethical Hacking**.
+- 🌱 I’m currently learning: **N/A**.
 - 📝 I often write articles on [Medium](https://medium.com/@abdulmoeezsiddiqui4).
 
 
