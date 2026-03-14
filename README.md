@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on:
   **AuditX**
 
-- 🌱 I’m currently learning: **Information Assurance, PDC, SSD, Cloud Computing**.
+- 🌱 I’m currently learning: **Cloud Security, PPIT and Entrepreneurship**.
 - 📝 I often write articles on [Medium](https://medium.com/@abdulmoeezsiddiqui4).
 
 
